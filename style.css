@@ -45,3 +45,23 @@ body{
     align-items: center;
     justify-content: center;
 }
+.gallery{
+    background-color: whitesmoke;
+}
+.gallery img{
+    border-radius: 5%;
+}
+.services{
+    color: #fff;
+}
+
+footer {
+    color:white;
+    font-size: 1rem;
+    margin:0;
+    padding:1rem;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
