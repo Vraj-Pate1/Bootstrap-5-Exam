@@ -7,10 +7,9 @@ body{
 
 
 .gradient{
-    background: rgb(0, 97, 242);
-    background: linear-gradient(
-        135deg,
-        rgba(0, 97, 242, 1) 0%,
+    background: rgb(66,63,251);
+background: linear-gradient(90deg, rgba(66,63,251,1) 8%, rgba(252,70,107,1) 90%);
+        rgba (0, 97, 242, 1) 0%,
         rgba(105, 0, 199, 1) 100%
     )
 }
